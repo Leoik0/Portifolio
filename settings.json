@@ -1,0 +1,5 @@
+{
+  "headwind.runOnSave": true,
+  "headwind.classRegex": "\\bclass(Name)?=\\\"([^\\\"]*)\\\"",
+  "headwind.sortTailwindClasses": true
+}
