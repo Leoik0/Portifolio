@@ -37,7 +37,7 @@ const SocialButtons = () => {
           href={social.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="relative p-2 text-white transition-all duration-300 bg-gray-800 rounded-full group hover:bg-gray-700"
+          className="relative p-2 transition-all duration-300 bg-gray-800 rounded-full social-icon group hover:bg-gray-700"
           aria-label={social.name}
         >
           {/* Badge flutuante */}

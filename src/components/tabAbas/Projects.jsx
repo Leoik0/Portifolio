@@ -3,7 +3,7 @@ import ProjectCard from "../ProjectCard";
 const projects = [
   {
     name: "Mines",
-    video: "/public/mines.mp4",
+    video: "/mines.mp4",
     link: "https://mines-mugen.netlify.app/",
   },
   {

@@ -14,7 +14,7 @@ const Header = () => {
         <img
           src="./profile.jpeg"
           alt="Imagem de Perfil"
-          className="img-profile absolute border-2 border-white rounded-full -bottom-[27%] left-[9%] h-[56%] "
+          className="img-profile absolute border-2 border-white  rounded-full -bottom-[27%] left-[9%] h-40 w-40  object-cover "
         />
       </div>
       <div className="flex flex-col items-start p-[4%]">
